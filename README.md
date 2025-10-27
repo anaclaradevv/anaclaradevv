@@ -32,7 +32,7 @@ Tenho interesse em **programação e desenvolvimento web**, sempre buscando apre
 
 * 💼 [LinkedIn](https://linkedin.com/in/anaclaradevv)
 * 💻 [GitHub](https://github.com/anaclaradevv)
-* ✉️ **E-mail:** [anaclaradossantosnunes6@gmail.com](mailto:anaclaradossantosnunes6@gmail.com)
+* ✉️ **E-mail:** ✉️ <a href="mailto:anaclaradossantosnunes6@gmail.com">anaclaradossantosnunes6@gmail.com</a>
 
 
 ## ✨ **Sobre mim**
